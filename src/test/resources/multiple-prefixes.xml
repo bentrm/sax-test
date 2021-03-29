@@ -1,0 +1,7 @@
+<xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <xhtml:head/>
+    <xbody:body xmlns:xbody="http://www.w3.org/1999/xhtml">
+        <xbody:h1>heading</xbody:h1>
+        <xbody:p>paragraph</xbody:p>
+    </xbody:body>
+</xhtml:html>
